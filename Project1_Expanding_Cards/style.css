@@ -41,9 +41,9 @@ margin: 0;
 .panel h3
 {
     font-size:24px;
-    position: absolute;
-    botton: 20px;
-    left:20px;
+    position: inherit;
+    bottom: 5px;
+    left:30px;
     margin:0;
     opacity: 0;
 }

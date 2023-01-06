@@ -45,7 +45,7 @@ margin:0;
     transition : transform 0.5s linear; 
 }
 
-.container.show-nav.circle
+.container.show-nav .circle
 {
 transform: rotate(-70deg);
 }

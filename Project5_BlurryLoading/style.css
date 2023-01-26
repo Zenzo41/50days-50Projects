@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+
+*
+{
+    box-sizing : border-box;
+}
+
+body
+{
+
+font-family : 'Ubuntu',sans-serif;
+align-items : center;
+height : 100vh;
+justify-content : center;
+overflow : hidden;
+margin : 0;
+}

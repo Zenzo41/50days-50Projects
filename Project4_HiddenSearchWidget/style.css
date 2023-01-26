@@ -12,12 +12,9 @@ font-family:'Roboto',sans-serif;
 display:flex;
 align-items:center;
 height:100vh;
+justify-content:center;
 overflow:hidden;
 margin:0;
-}
-div
-{
-
 }
 
 .search
